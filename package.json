@@ -1,0 +1,20 @@
+{
+  "name": "jainaayush01-demopkg",
+  "version": "1.0.0",
+  "description": "demo npm package Learning how to publish a npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jainaayush01/npm-package.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jainaayush01/npm-package/issues"
+  },
+  "homepage": "https://github.com/jainaayush01/npm-package#readme"
+}
